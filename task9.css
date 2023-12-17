@@ -93,7 +93,7 @@ main{
     overflow: hidden;
 }
 
-.videosection >video{
+.videosection >img{
     position: relative;
     height: max-content;
     width: inherit;
